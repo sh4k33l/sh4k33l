@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Muhammad Shakeel: I solve the tickets that get escalated" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0a7bb1,50:6364e2,100:994be1&text=Muhammad%20Shakeel&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=I%20solve%20the%20tickets%20that%20get%20escalated&descAlignY=68&descSize=18" width="100%" />
+  <img alt="Muhammad Shakeel: I solve the tickets that get escalated" src="assets/banner.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -125,5 +125,5 @@ I'm a Tier II technical support specialist. I have worked with WordPress since 2
 </p>
 
 <p align="center">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&height=12&color=0:0a7bb1,50:6364e2,100:994be1" width="100%" />
+  <img alt="" src="assets/divider.svg" width="100%" />
 </p>

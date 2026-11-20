@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 180" role="img" aria-label="Muhammad Shakeel: I solve the tickets that get escalated">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a7bb1"/>
+      <stop offset="50%" stop-color="#6364e2"/>
+      <stop offset="100%" stop-color="#994be1"/>
+    </linearGradient>
+  </defs>
+  <rect width="854" height="180" rx="14" fill="url(#g)"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="427" y="86" font-size="46" font-weight="700">Muhammad Shakeel</text>
+    <text x="427" y="124" font-size="19" font-weight="500">I solve the tickets that get escalated</text>
+  </g>
+</svg>
