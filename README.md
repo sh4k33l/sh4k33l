@@ -83,11 +83,6 @@ I'm a Tier II technical support specialist. I have worked with WordPress since 2
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=sh4k33l&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=GitHub%20stats" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=sh4k33l&show_icons=true&hide_border=true&include_all_commits=true&theme=default&custom_title=GitHub%20stats" />
-    <img alt="sh4k33l's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=sh4k33l&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=GitHub%20stats" height="170" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sh4k33l&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&custom_title=Most%20used%20languages" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sh4k33l&layout=compact&hide_border=true&langs_count=8&theme=default&custom_title=Most%20used%20languages" />
     <img alt="sh4k33l's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh4k33l&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&custom_title=Most%20used%20languages" height="170" />
