@@ -76,11 +76,11 @@ I'm a Tier II technical support specialist. I have worked with WordPress since 2
 <!-- Updated daily by .github/workflows/blog-posts.yml -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add an Admin User in WordPress &lpar;Without Sharing Your Password&rpar;](https://howtowp.com/add-admin-user-wordpress/)
 - [Bluehost AI Builder Review: I Built a Booking App in One Prompt](https://howtowp.com/bluehost-ai-builder-review/)
 - [Did the November 2026 Core Update Hit Your WordPress Site? How to Check](https://howtowp.com/google-core-update-wordpress/)
 - [How to Check if Your WordPress Site Is Blocking AI Crawlers](https://howtowp.com/wordpress-blocking-ai-crawlers/)
 - [How to Clear the WordPress Cache &lpar;Every Layer, Tested&rpar;](https://howtowp.com/how-to-clear-wordpress-cache/)
-- [WordPress Blockquote: How to Add, Cite and Style a Quote](https://howtowp.com/wordpress-blockquote/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub activity
